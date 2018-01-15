@@ -19,7 +19,7 @@
 ### 4、pom.xml文件中配置打包插件
 ```
 <plugin>
-  <groupId>com.touna.loan</groupId>
+  <groupId>com.feizi.maven</groupId>
   <artifactId>maven-config-git-plugin</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <configuration>
@@ -78,7 +78,7 @@
 				<plugins>
 	
 					<plugin>
-						<groupId>com.touna.loan</groupId>
+						<groupId>com.feizi.maven</groupId>
 						<artifactId>maven-config-git-plugin</artifactId>
 						<version>0.0.1-SNAPSHOT</version>
 						<configuration>
